@@ -29,9 +29,7 @@ sudo apt update
 sudo apt install firefox -y
 
 ## FreeCAD
-sudo add-apt-repository universe -y
-sudo apt update
-sudo apt install freecad -y
+flatpak install flathub org.freecad.FreeCAD -y
 
 ## Visual studio code
 sudo apt update
