@@ -29,6 +29,7 @@ sudo apt update
 sudo apt install firefox -y
 
 ## FreeCAD
+sudo add-apt-repository universe
 sudo apt update
 sudo apt install freecad
 
