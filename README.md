@@ -28,6 +28,10 @@ sudo systemctl enable --now cockpit.socket
 sudo apt update
 sudo apt install firefox -y
 
+## FreeCAD
+sudo apt update
+sudo apt install freecad
+
 ## Visual studio code
 sudo apt update
 sudo apt install code -y
